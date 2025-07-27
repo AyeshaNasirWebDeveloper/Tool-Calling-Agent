@@ -18,31 +18,12 @@ A smart agent-powered bot that provides comprehensive country information includ
    - Formats all information beautifully
 3. Returns complete country profile
 
-## Example Output 📋
-┌─────────────────────────────────────┐
-│ COUNTRY PROFILE                     │
-├─────────────────────────────────────┤
-│ Country: Italy                      │
-│ Capital: Rome                       │
-│ Language: Italian                   │
-│ Population: 60 million              │
-├─────────────────────────────────────┤
-│ Must-See: Colosseum in Rome         |
-│ Must-Try: Pizza Margherita - Classic│
-│ tomato, mozzarella & basil          │
-│ Did You Know: Italy has more UNESCO │
-│ World Heritage Sites than any other │
-│ country                             │
-└─────────────────────────────────────┘
-
-text
-
 ## Installation 🛠️
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AyeshaNasirWebDeveloper/Agentic-AI-Assignment-1/country-info-bot.git
-   cd country-info-bot
+   git clone https://github.com/AyeshaNasirWebDeveloper/Tool-Calling-Agent.git
+   
 Set up environment:
 
 bash
