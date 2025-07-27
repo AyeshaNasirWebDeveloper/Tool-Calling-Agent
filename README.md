@@ -23,35 +23,42 @@ A smart agent-powered bot that provides comprehensive country information includ
 1. Clone the repository:
    ```bash
    git clone https://github.com/AyeshaNasirWebDeveloper/Tool-Calling-Agent.git
+   ```
    
-Set up environment:
+## Set up environment:
 
-bash
+```bash
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
 .venv\Scripts\activate     # Windows
-Install dependencies:
+```
 
-bash
+## Install dependencies:
+
+```bash
 Create .env file:
 
 env
 GEMINI_API_KEY=your_api_key_here
 Usage 🚀
-Run the bot:
+```
 
-bash
-python main.py
+## Run the bot:
+
+```bash
+uv run main.py
+```
 Then enter country names when prompted (type 'quit' to exit).
 
-Requirements 📦
+## Requirements 📦
+
 Python 3.8+
 
 agents framework
 
 Google Gemini API key
 
-Contributing 🤝
+## Contributing 🤝
 Contributions welcome! Please:
 
 Fork the repository
@@ -60,7 +67,7 @@ Create a feature branch
 
 Submit a pull request
 
-License 📜
+## License 📜
 MIT License - see LICENSE for details
 
 Made with ❤️ by [Ayesha Nasir] | https://linktr.ee/ayesha_nasir
